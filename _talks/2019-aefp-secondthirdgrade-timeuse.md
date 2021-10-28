@@ -1,0 +1,16 @@
+---
+title: "Comparing academic time use across second and third grades"
+collection: talks
+type: "Paper Session"
+permalink: /talks/2019-aefp-secondthirdgrade-timeuse
+venue: "Association for Education Finance and Policy Annual Meeting"
+date: 2019-03-21
+location: "Kansas City, Missouri"
+---
+
+Abstract: Bassok, Latham, and Rorem (2016) document that kindergarten has become more academic from the pre- to post-No Child Left Behind (NCLB) eras. They write that the percentage of kindergarten teachers who report that they teach mathematics daily increased from 83% to 91% and that the percentage of kindergarten teachers who report spending time every day on nonacademic subjects like music, art, dance, theater, and foreign language instruction decreased by 18% between 1998 and 2011 (Bassok et al., 2016). These findings bring into question whether accountability pressures have driven kindergarten classroom time-use to become less developmentally appropriate over time. Indeed, some scholars believe that the increase in reading and math instruction found in the primary grades disrupts the development of social skills and narrows the curriculum (Koretz, 2017; Morton & Dalton, 2007; Russell, 2011). Since students first encounter high-stakes standardized tests at the end of third grade (Hurst, Tan, Meek, Officer, & McArthur, 2003; Pianta, Belsky, Vandergrift, Houts, & Morrison, 2008), one may anticipate that there would be a dramatic change in the way time is allocated between second and third grade; however, to our knowledge this has yet to be empirically documented. Using data from the Early Childhood Longitudinal Study (ECLS-K:2011), a longitudinal, nationally representative study of a cohort of students, we document how teachers report time is used, on average, in a second-grade day compared to third-grade day. Since national patterns may mask important variability across schools and districts, we will also explore whether the shift in time-use for the ECLSK:2011 cohort between grades 2 and 3 looks different across U.S. school settings. It may be the case that, in some places, the second and third grade experiences exhibit strong continuity, while in others there is a marked shift in the kind of school day students experience. If we hypothesize that decisions about time-use at this juncture are connected to accountability policies, we expect that schools under greater pressure might exhibit very different time-use patterns. We adopt a multilevel modeling approach to partition variance in time-use across grades in the same school, across schools, and across districts/states (Raudenbush & Bryk, 2002). Having a post-NCLB description comparing second to third grade time-use using the ECLS-K: 2011 nationally-representative data is valuable to researchers looking to compare how the time used within early elementary grades shifts towards more academic content. For policy-makers considering how to enhance high-quality curricula and teaching, understanding how the time-use transition from second to third grade varies across the country could illuminate differences between their programs and the “typical” student experience. 
+
+Authors: Hannah Denker, Dr. Daphna Bassok, Dr. Mimi Engel, Dr. Allison Atteberry
+
+
+
