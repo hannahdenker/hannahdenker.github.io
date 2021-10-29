@@ -6,7 +6,7 @@ excerpt: 'High-quality, early childhood education (ECE) experiences can improve 
 date: 2021-10-27
 state: ''
 venue: 'Working Paper'
-paperurl: 'http://hannahdenker.github.io/files/WorkingPaper_WhereHasAllTheTimeGone_2021_1027.pdf'
+paperurl: ''
 citation: 'Denker, H. & Atteberry, A. (2021). &quot;Where has all the time gone? Describing time use in full- vs. half-day pre-Kindergarten&quot;. <i>Working Paper</i>.'
 ---
 
