@@ -27,11 +27,23 @@ Education
 
 Research
 ======
+* University of Virginia
+  * Graduate Research Assistant, August 2022 – Present
+  * Supervisor: Dr. Allison Atteberry
+  * Project Title: 
+    * Understanding the Effects of Financial Bonuses on Child Care Staff Retention – Wrote IRB for this study of a mid-Atlantic state's randomized control design study of the effect of retention bonuses on the early childhood workforce; designed, programmed, and administered survey instruments in Qualtrics. 
+
+* Lyons Assessment Consulting
+  * Research Assistant, January 2022 – Present
+  * Supervisor: Dr. Susan Lyons
+  * Project Title: 
+    * Various Projects – Conducted item-level analyses of grade 2-8 summative assessment data for teacher-designed classroom modules; conducted qualitative analyses for research study of a mid-Atlantic state seeking to understand how best to revise descriptors on state achievement tests to be less negative; conducted qualitative analyses for a research study investigating the effect of culturally responsive reading assessments in a large urban school district; designed and implemented a professional development workshop series on assessment literacy for elementary school teachers in a large, urban district. 
+
 * University of Colorado, Boulder
   * Graduate Research Assistant, May 2021 – Present
   * Supervisor: Dr. Karl Hill
   * Project Title: 
-    * High School LifeSkills Training RCT Study – Coordinated primary data collection efforts via online student survey administration; communicated consistently with school coordinators; drove school and student retention efforts
+    * High School LifeSkills Training RCT Study – Coordinated primary data collection efforts via online student survey administration; communicated consistently with school coordinators; drove school and student retention efforts; preliminary data cleaning; built school-level data reports using R Markdown.
 
 * University of Colorado, Boulder
   * Graduate Research Assistant, August 2017 – Present
