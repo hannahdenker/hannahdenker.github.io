@@ -17,26 +17,26 @@ Early childhood education, child care, quantitative methods, causal inference, e
 
 Education
 ======
-2023      <b>University of Colorado Boulder</b>, School of Education
+2023 &emsp; <b>University of Colorado Boulder</b>, School of Education
   * Ph.D in Research and Evaluation Methodology
      
     <i>Dissertation</i>: "Exploring Structural Features and Classroom Processes in Early Childhood Education: An Examination of Time Use, Quality, and Teacher Wages"
 
     <i>Committee</i>: Mimi Engel (chair), Allison Atteberry, Ben Shear, Oded Gurantz, and Karl Hill
     
-2013      <b>Oklahoma State University</b>, School of Education and Human Sciences
+2013 &emsp; <b>Oklahoma State University</b>, School of Education and Human Sciences
   * M.S. in Educational Technology/School Library Media
 
     <i>Advisor</i>: Susan L. Stansberry
+    <br>
     
-2011      <b>Oklahoma State University</b>, School of Education and Human Sciences
-  * B.S. in Elementary Education 
-  * Summa Cum Laude, General Honors Award
+2011 &emsp; <b>Oklahoma State University</b>, School of Education and Human Sciences
+  * B.S. in Elementary Education - Summa Cum Laude, General Honors Award
 
 Academic Appointments
 ======
-* 2023–Present <b>University of Virginia</b>, School of Education and Human Development
-  * Postdoctoral Research Associate
+2023–Present &emsp; <b>University of Virginia</b>, School of Education and Human Development
+<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Postdoctoral Research Associate
 
 Publications
 ======
@@ -52,20 +52,20 @@ Conference Presentations
     
 Other Research Experience
 ======
-* <b>University of Virginia</b>, School of Education and Human Development
-  * 2022-2023    Graduate Research Assistant for Allison Atteberry
+2022-2023 &emsp; <b>University of Virginia</b>, School of Education and Human Development
+<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Graduate Research Assistant for Allison Atteberry
 
-* <b>Lyons Assessment Consulting</b>
-  * 2022-Present Research Assistant for Susan Lyons
+2022-Present &emsp; <b>Lyons Assessment Consulting</b>
+<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Research Assistant for Susan Lyons
 
-* <b>University of Colorado, Boulder</b>, Institute of Behavioral Science
-  * 2021-2023    Graduate Research Assistant for Karl Hill
+2021-2023 &emsp; <b>University of Colorado, Boulder</b>, Institute of Behavioral Science
+<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Graduate Research Assistant for Karl Hill
 
-* <b>University of Colorado, Boulder</b>, School of Education
-  * 2017-2023    Graduate Research Assistant for Allison Atteberry and Mimi Engel
+2017-2023 &emsp; <b>University of Colorado, Boulder</b>, School of Education
+<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Graduate Research Assistant for Allison Atteberry and Mimi Engel
 
-* <b>Oklahoma State University</b>, School of Education and Human Sciences
-  * 2011-2013    Graduate Research Assistant for Susan Stansberry
+2011-2013 &emsp; <b>Oklahoma State University</b>, School of Education and Human Sciences
+<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Graduate Research Assistant for Susan Stansberry
 
 Teaching Experience
 ======
@@ -82,11 +82,11 @@ Professional Organizations and Service
   * American Educational Research Association (2024) 
  
 * <b>Mentoring</b>
-  * 2023-Present Mentor, University of Virginia Undergraduate Education Policy Associates
-  * 2021-2023    Mentor, University of Colorado Boulder STUDIO Undergraduate Research Program 
+  * 2023-Present &emsp; Mentor, University of Virginia Undergraduate Education Policy Associates
+  * 2021-2023 &emsp; Mentor, University of Colorado Boulder STUDIO Undergraduate Research Program 
 
 * <b>University Service</b>
-  * 2018-2019    Member, Student Association for Graduate Educators (SAGE), University of Colorado Boulder
+  * 2018-2019 &emsp; Member, Student Association for Graduate Educators (SAGE), University of Colorado Boulder
 
 
 
