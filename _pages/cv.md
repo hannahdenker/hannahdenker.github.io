@@ -21,7 +21,7 @@ Education
   * <i>Dissertation</i>: "Exploring Structural Features and Classroom Processes in Early Childhood Education: An Examination of Time Use, Quality, and Teacher Wages"
   * <i>Committee</i>: Mimi Engel (chair), Allison Atteberry, Ben Shear, Oded Gurantz, and Karl Hill
 * M.S. in Educational Technology/School Library Media, Oklahoma State University, 2013
-  * <i>Advisor</i>: Dr. Susan L. Stansberry
+  * <i>Advisor</i>: Susan L. Stansberry
 * B.S. in Elementary Education, Oklahoma State University, 2011  
   * Summa Cum Laude, General Honors Award
 
