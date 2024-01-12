@@ -82,11 +82,11 @@ Professional Organizations and Service
   * American Educational Research Association (2024) 
  
 * <b>Mentoring</b>
-* 2023-Present Mentor, University of Virginia Undergraduate Education Policy Associates
-* 2021-2023    Mentor, University of Colorado Boulder STUDIO Undergraduate Research Program 
+  * 2023-Present Mentor, University of Virginia Undergraduate Education Policy Associates
+  * 2021-2023    Mentor, University of Colorado Boulder STUDIO Undergraduate Research Program 
 
 * <b>University Service</b>
-* 2018-2019    Member, Student Association for Graduate Educators (SAGE), University of Colorado Boulder
+  * 2018-2019    Member, Student Association for Graduate Educators (SAGE), University of Colorado Boulder
 
 
 
