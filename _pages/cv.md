@@ -53,19 +53,19 @@ Conference Presentations
 Other Research Experience
 ======
 * <b>University of Virginia</b>, School of Education and Human Development
-  *2022-2023    Graduate Research Assistant for Allison Atteberry
+  * 2022-2023    Graduate Research Assistant for Allison Atteberry
 
 * <b>Lyons Assessment Consulting</b>
-  *2022-Present Research Assistant for Susan Lyons
+  * 2022-Present Research Assistant for Susan Lyons
 
 * <b>University of Colorado, Boulder</b>, Institute of Behavioral Science
-  *2021-2023    Graduate Research Assistant for Karl Hill
+  * 2021-2023    Graduate Research Assistant for Karl Hill
 
 * <b>University of Colorado, Boulder</b>, School of Education
-  *2017-2023    Graduate Research Assistant for Allison Atteberry and Mimi Engel
+  * 2017-2023    Graduate Research Assistant for Allison Atteberry and Mimi Engel
 
 * <b>Oklahoma State University</b>, School of Education and Human Sciences
-  *2011-2013    Graduate Research Assistant for Susan Stansberry
+  * 2011-2013    Graduate Research Assistant for Susan Stansberry
 
 Teaching Experience
 ======
