@@ -13,22 +13,28 @@ redirect_from:
 
 Areas of Interest
 ======
-Early childhood education, quantitative methods, causal inference, education policy analysis, production of social inequality
+Early childhood education, child care, quantitative methods, causal inference, education policy analysis
 
 Education
 ======
-* Ph.D in Research and Evaluation Methodology, University of Colorado Boulder, May 2023 (expected)
-  * Comprehensive Exam Committee Members: Dr. Allison Atteberry, Dr. Mimi Engel, and Dr. Melissa Braaten
+* Ph.D in Research and Evaluation Methodology, University of Colorado Boulder, 2023 
+  * <i>Dissertation</i>: "Exploring Structural Features and Classroom Processes in Early Childhood Education: An Examination of Time Use, Quality, and Teacher Wages"
+  * <i>Committee</i>: Mimi Engel (chair), Allison Atteberry, Ben Shear, Oded Gurantz, and Karl Hill
 * M.S. in Educational Technology/School Library Media, Oklahoma State University, 2013
-  * Advisor: Dr. Susan L. Stansberry
+  * <i>Advisor</i>: Dr. Susan L. Stansberry
 * B.S. in Elementary Education, Oklahoma State University, 2011  
   * Summa Cum Laude, General Honors Award
 
+Academic Appointments
+======
+* University of Virginia
+  * Postdoctoral Research Associate, August 2023 – Present
+  * Supervisor: Dr. Daphna Bassok
 
 Research
 ======
 * University of Virginia
-  * Graduate Research Assistant, August 2022 – Present
+  * Graduate Research Assistant, August 2022 – August 2023
   * Supervisor: Dr. Allison Atteberry
   * Project Title: 
     * Understanding the Effects of Financial Bonuses on Child Care Staff Retention – Wrote IRB for this study of a mid-Atlantic state's randomized control design study of the effect of retention bonuses on the early childhood workforce; designed, programmed, and administered survey instruments in Qualtrics. 
