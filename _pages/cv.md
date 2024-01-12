@@ -17,18 +17,19 @@ Early childhood education, child care, quantitative methods, causal inference, e
 
 Education
 ======
-* 2023 <b>University of Colorado Boulder</b>, School of Education
+2023      <b>University of Colorado Boulder</b>, School of Education
   * Ph.D in Research and Evaluation Methodology
      
     <i>Dissertation</i>: "Exploring Structural Features and Classroom Processes in Early Childhood Education: An Examination of Time Use, Quality, and Teacher Wages"
+
     <i>Committee</i>: Mimi Engel (chair), Allison Atteberry, Ben Shear, Oded Gurantz, and Karl Hill
     
-* 2013 <b>Oklahoma State University</b>, School of Education and Human Sciences
+2013      <b>Oklahoma State University</b>, School of Education and Human Sciences
   * M.S. in Educational Technology/School Library Media
 
     <i>Advisor</i>: Susan L. Stansberry
     
-* 2011 <b>Oklahoma State University</b>, School of Education and Human Sciences
+2011      <b>Oklahoma State University</b>, School of Education and Human Sciences
   * B.S. in Elementary Education 
   * Summa Cum Laude, General Honors Award
 
