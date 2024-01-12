@@ -36,7 +36,7 @@ Education
 Academic Appointments
 ======
 2023–Present &emsp; <b>University of Virginia</b>, School of Education and Human Development
-<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Postdoctoral Research Associate
+<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Postdoctoral Research Associate
 
 Publications
 ======
