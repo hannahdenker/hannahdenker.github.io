@@ -5,7 +5,7 @@ type: "Paper Session"
 permalink: /talks/2024-aefp-laonboarding
 venue: "Association for Education Finance and Policy"
 date: 2024-03-14
-location: "San Francisco, California"
+location: "Washington D.C."
 ---
 
 
