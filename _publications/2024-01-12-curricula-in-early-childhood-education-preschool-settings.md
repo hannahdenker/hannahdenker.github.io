@@ -3,7 +3,7 @@ title: "Curricula in Early Childhood Education Preschool Settings"
 collection: publications
 permalink: /publication/2024-01-12-curricula-in-early-childhood-education-preschool-settings
 excerpt: ' '
-date: 2024-01-16
+date: 2025-01-16
 state: ''
 venue: 'Forthcoming'
 paperurl: ''
