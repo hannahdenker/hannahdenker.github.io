@@ -35,7 +35,10 @@ Education
 
 Academic Appointments
 ======
-2023–Present &emsp; <b>University of Virginia</b>, School of Education and Human Development
+2024–Present &emsp; <b>University of Arkansas</b>, College of Education and Health Professions 
+<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Research Assistant Professor
+<br>
+2023–2024 &emsp; <b>University of Virginia</b>, School of Education and Human Development
 <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Postdoctoral Research Associate
 
 Publications
@@ -79,7 +82,7 @@ Professional Organizations and Service
   * Educational Researcher, Early Chilodhood Research Quarterly
 
 * <b>Conference Proposal Reviewer</b>
-  * American Educational Research Association (2024) 
+  * American Educational Research Association (2024, 2025) 
  
 * <b>Mentoring</b>
   * 2023-Present &emsp; Mentor, University of Virginia Undergraduate Education Policy Associates
