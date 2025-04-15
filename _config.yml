@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hannah Denker"
   avatar           : "bio_photo.jpeg"
-  bio              : "Ph.D Candidate in the School of Education"
-  location         : "CU Boulder"
+  bio              : "Research Assistant Professor at UArk's College of Education and Health Profession"
+  location         : "Fayetteville, AR"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=AkcqI7YAAAAJ&hl=en"
-  email            : "hannah.denker@colorado.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=12kmsaEAAAAJ&hl=en&oi=ao"
+  email            : "hdenker@uark.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/hannahkdenker"
   orcid            : "https://orcid.org/0000-0002-9488-4200"
   pinterest        :
   soundcloud       :
