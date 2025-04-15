@@ -1,2 +1,28 @@
-_site/
+# History files
+.Rhistory
+.Rapp.history
 
+# Session Data
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# VS Code
+.vscode/
+
+# Environment
+.Renv
+
+# Mac system files
+.DS_Store
+
+# Quarto/HTML outputs
+*.html
+*.qmd
+
+# Site cache (if using blogdown/hugo or quarto)
+_site/
+_cache/
