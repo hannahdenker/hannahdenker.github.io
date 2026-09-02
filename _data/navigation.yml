@@ -8,18 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
+  - title: "Research & Policy"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/   
-        
-  - title: "Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /files/Denker_CV.pdf
-

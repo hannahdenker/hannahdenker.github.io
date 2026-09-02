@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : "Hannah Denker"
 title_separator          : "-"
 name                     : &name "Hannah Denker"
-description              : &description "personal description"
-url                      : https://hannahdenker.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Early childhood policy researcher studying access, quality, and the educator workforce"
+url                      : https://www.hannahdenker.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hannahdenker/hannahdenker.github.io"
 teaser                   :  "bio_photo.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Hannah Denker"
   avatar           : "bio_photo.jpeg"
-  bio              : "Research Assistant Professor at UArk's College of Education and Health Professions"
+  bio              : "Early childhood policy researcher at the University of Arkansas"
   location         : "Fayetteville, AR"
   employer         :
   pubmed           : 
@@ -106,7 +106,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "hannahkdenker"
   orcid            : "https://orcid.org/0000-0002-9488-4200"
   pinterest        :
   soundcloud       :

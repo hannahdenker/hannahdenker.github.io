@@ -8,8 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Hannah Denker. 
+I am a Research Assistant Professor in the Office for Education Policy at the University of Arkansas. My research examines how early childhood policies shape access to care, program quality, and the early educator workforce.
 
-I am a Research Assistant Professor in the Office for Education Policy, a research center within the College of Education and Health Professions at the University of Arkansas. My research focuses on early childhood education policy. I use quantitative methods to understand what makes early childhood experiences beneficial to young children. Exploring this topic, I've worked with school districts in Colorado and Massachusetts, in addition to the Arkansas, Virginia, and Maryland State Departments of Education. I have also explored how classroom assessment can be more equitable through my work as a research associate with Lyons Assessment Consulting.  
+I use quantitative methods and partnerships with state and local leaders to produce evidence that is useful for policy and implementation. My current work focuses on Arkansas's early childhood system, including funding, access, quality measurement, and workforce stability. I also study child care teacher onboarding and compensation, pre-K policy, and children's early schooling experiences.
 
-Before receiving my Ph.D. from the University of Colorado Boulder in 2023, I earned a B.S. and a M.S. in Education from Oklahoma State University and was an elementary teacher for four years in the Wichita Public School District.
+Before earning my Ph.D. from the University of Colorado Boulder, I was an elementary school teacher. That experience continues to shape the questions I ask and my interest in research that connects policy decisions to the experiences of educators, children, and families.
+
+## Selected work
+
+- [Supporting newly hired child care teachers: The role of onboarding](https://doi.org/10.1016/j.ecresq.2026.03.003), *Early Childhood Research Quarterly*
+- [Connecting early childhood quality measures to later outcomes](https://oep.uark.edu/how-do-arkansass-early-childhood-quality-measures-connect-to-later-outcomes/), Office for Education Policy
+- [Arkansas Early Childhood Key Program Indicator Baseline Report](https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2025/09/2025_0916_Arkansas_KPI_BaselineReport.pdf), Office for Education Policy
+
+[View all research and policy work](/publications/) or [download my CV](/files/Denker_CV.pdf).
+
+I welcome conversations with researchers, agencies, and organizations working on early childhood policy and implementation. You can reach me at [hdenker@uark.edu](mailto:hdenker@uark.edu).
