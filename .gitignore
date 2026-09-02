@@ -26,3 +26,4 @@
 # Site cache (if using blogdown/hugo or quarto)
 _site/
 _cache/
+.DS_Store
