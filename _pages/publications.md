@@ -55,4 +55,4 @@ Examination of the financial effects of Arkansas’s Fall 2025 changes to the Sc
 - **Context of Arkansas**, with Denise Airola and Sarah McKenzie, in *The State of Education in Arkansas*, 2026
 - **Curricula in early childhood education preschool settings**, with Mimi Engel and Danielle Shaw Attaway, in *Handbook of Education Policy Research*, 2nd edition, 2025
 
-For complete citations, presentations, and professional service, <a href="/files/Denker_CV.pdf" target="_blank" rel="noopener noreferrer">download my CV</a>.
+For complete works, presentations, and professional service, <a href="/files/Denker_CV.pdf" target="_blank" rel="noopener noreferrer">download my CV</a>.
