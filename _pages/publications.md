@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-My work examines how early childhood policies shape access to care, program quality, and the educator workforce. I conduct quantitative research and work with state and local partners to produce evidence that can inform policy and implementation.
+My work examines how early care and education (ECE) policies shape access to care, program quality, and the educator workforce. I conduct quantitative research and work with state and local partners to produce evidence that can inform policy.
 
-## Early childhood research
+## Early care and education research
 
 ### [Supporting newly hired child care teachers: The role of onboarding](https://doi.org/10.1016/j.ecresq.2026.03.003)
 
@@ -15,13 +15,13 @@ New child care teachers receive widely varying levels of onboarding support. In 
 
 ### [Where has all the time gone? Describing time use in full- vs. half-day pre-kindergarten](https://doi.org/10.1016/j.ecresq.2024.05.007)
 
-Using repeated observations of pre-K classrooms, Allison Atteberry and I examine how full- and half-day programs allocate time across instructional content, classroom activities, and non-instructional routines. *Early Childhood Research Quarterly*, 2024. [View article](https://doi.org/10.1016/j.ecresq.2024.05.007)
+Using repeated observations of pre-K classrooms, Allison Atteberry and I examine how full- and half-day school-based programs allocate time across instructional content, classroom activities, and non-instructional routines. *Early Childhood Research Quarterly*, 2024. [View article](https://doi.org/10.1016/j.ecresq.2024.05.007)
 
 ## Arkansas policy work
 
 ### [Connecting early childhood quality measures to later outcomes](https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2026/04/2026_0401_ECE_QualityAlignment_AER.pdf)
 
-An examination of how Arkansas's early childhood quality measures connect to later student outcomes, with implications for quality improvement and accountability. Office for Education Policy, 2026. [Read report](https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2026/04/2026_0401_ECE_QualityAlignment_AER.pdf) · [Read overview](https://oep.uark.edu/how-do-arkansass-early-childhood-quality-measures-connect-to-later-outcomes/)
+An examination of how Arkansas's early childhood quality measures used in the state's QRIS connect to later student outcomes, with implications for quality improvement and accountability. Office for Education Policy, 2026. [Read report](https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2026/04/2026_0401_ECE_QualityAlignment_AER.pdf) · [Read overview](https://oep.uark.edu/how-do-arkansass-early-childhood-quality-measures-connect-to-later-outcomes/)
 
 ### [Arkansas Early Childhood Key Program Indicator Baseline Report](https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2025/09/2025_0916_Arkansas_KPI_BaselineReport.pdf)
 
@@ -29,11 +29,8 @@ A statewide baseline of indicators related to early childhood access, participat
 
 ### [Early care and education funding in Arkansas](https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2025/02/22.1-AR_ECCE_Funding-new.pdf)
 
-An analysis of Arkansas's early childhood funding landscape, including changes in federal, state, and local investment. Office for Education Policy, 2025. [Read report](https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2025/02/22.1-AR_ECCE_Funding-new.pdf)
+An analysis of Arkansas's early childhood funding landscape, including changes to federal and state investment. Office for Education Policy, 2025. [Read report](https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2025/02/22.1-AR_ECCE_Funding-new.pdf)
 
-### [Teacher attendance in Arkansas public schools](https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2026/05/Teacher-Absenteeism-Paper-OEP-5.12.26.pdf)
-
-A statewide analysis of teacher attendance patterns in Arkansas public schools. Office for Education Policy, 2026. [Read report](https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2026/05/Teacher-Absenteeism-Paper-OEP-5.12.26.pdf)
 
 ## Public writing
 

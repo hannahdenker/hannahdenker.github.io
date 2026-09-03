@@ -17,7 +17,7 @@
 .Renv
 
 # Mac system files
-.DS_Store
+**/.DS_Store
 
 # Quarto/HTML outputs
 *.html

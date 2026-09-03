@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant Professor in the Office for Education Policy at the University of Arkansas. My research examines how early childhood policies shape access to care, program quality, and the early educator workforce.
+I am a Research Assistant Professor in the Office for Education Policy at the University of Arkansas. My research examines how early care and education (ECE) policies shape access to care, program quality, and the early educator workforce.
 
-I use quantitative methods and partnerships with state and local leaders to produce evidence that is useful for policy and implementation. My current work focuses on Arkansas's early childhood system, including funding, access, quality measurement, and workforce stability. I also study child care teacher onboarding and compensation, pre-K policy, and children's early schooling experiences.
+I use quantitative methods and partnerships with state agencies and nonprofit organizations to produce evidence that is useful for policy. My current work focuses on Arkansas's ECE system, including funding, access, quality measurement, and workforce stability. I have also studied child care teacher onboarding and compensation, pre-K policy, and children's early schooling experiences.
 
 Before earning my Ph.D. from the University of Colorado Boulder, I was an elementary school teacher. That experience continues to shape the questions I ask and my interest in research that connects policy decisions to the experiences of educators, children, and families.
 
