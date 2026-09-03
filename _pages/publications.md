@@ -23,7 +23,7 @@ Using repeated observations of pre-K classrooms, Allison Atteberry and I examine
 
 An examination of how Arkansas's early childhood quality measures used in the state's QRIS connect to later student outcomes as documented in the literature. I also include implications of using these measures for quality improvement and accountability. Office for Education Policy, 2026. <a href="https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2026/04/2026_0401_ECE_QualityAlignment_AER.pdf" target="_blank" rel="noopener noreferrer">Read report</a> · <a href="https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2026/04/ECEqualityPolicyBrief.pdf" target="_blank" rel="noopener noreferrer">Read policy brief</a>
 
-### Arkansas Early Childhood Key Program Indicator Baseline Report
+### Arkansas early childhood key program indicator baseline report
 
 A statewide baseline of indicators related to early childhood access, program quality, and the ECE workforce. Office for Education Policy, 2025. <a href="https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2025/09/2025_0916_Arkansas_KPI_BaselineReport.pdf" target="_blank" rel="noopener noreferrer">Read report</a> · <a href="https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2025/09/2025_0916_Arkansas_KPI_Baseline_Brief.pdf" target="_blank" rel="noopener noreferrer">Read policy brief</a>
 
@@ -31,7 +31,7 @@ A statewide baseline of indicators related to early childhood access, program qu
 
 An analysis of Arkansas's ECE funding landscape, including changes to federal and state investment over the 2018 through 2023 period. Office for Education Policy, 2025. <a href="https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2025/02/22.1-AR_ECCE_Funding-new.pdf" target="_blank" rel="noopener noreferrer">Read report</a> · <a href="https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2025/02/22.2-ECE-Funding2.pdf" target="_blank" rel="noopener noreferrer">Read policy brief</a>
 
-### Arkansas School Readiness Assistance (SRA) Program: Fall 2025 Policy Changes – Impact Assessment
+### Arkansas School Readiness Assistance (SRA) program: Fall 2025 policy change impact assessment
 
 Examination of the financial effects of Arkansas’s Fall 2025 changes to the School Readiness Assistance program. Office for Education Policy, 2025. <a href="https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2025/10/2025_1022_SRA_Changes_Part2.pdf" target="_blank" rel="noopener noreferrer">Read policy brief</a>
 
