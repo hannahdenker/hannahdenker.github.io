@@ -25,7 +25,7 @@ An examination of how Arkansas's early childhood quality measures used in the st
 
 ### <a href="https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2025/09/2025_0916_Arkansas_KPI_BaselineReport.pdf" target="_blank" rel="noopener noreferrer">Arkansas Early Childhood Key Program Indicator Baseline Report</a>
 
-A statewide baseline of indicators related to early childhood access, program quality, and the ECE workforce. Office for Education Policy, 2025. <a href="https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2025/09/2025_0916_Arkansas_KPI_BaselineReport.pdf" target="_blank" rel="noopener noreferrer">Read report</a> · <a href="https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2025/09/2025_0916_Arkansas_KPI_Baseline_Brief.pdf" target="_blank" rel="noopener noreferrer">Read policy brief</
+A statewide baseline of indicators related to early childhood access, program quality, and the ECE workforce. Office for Education Policy, 2025. <a href="https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2025/09/2025_0916_Arkansas_KPI_BaselineReport.pdf" target="_blank" rel="noopener noreferrer">Read report</a> · <a href="https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2025/09/2025_0916_Arkansas_KPI_Baseline_Brief.pdf" target="_blank" rel="noopener noreferrer">Read policy brief</a>
 
 ### <a href="https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2025/02/22.1-AR_ECCE_Funding-new.pdf" target="_blank" rel="noopener noreferrer">Early care and education funding in Arkansas</a>
 
