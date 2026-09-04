@@ -24,7 +24,7 @@ Before earning my Ph.D. from the University of Colorado Boulder, I was an elemen
 
 - Morano, Miceala. “[Arkansas daycare providers reducing services, shutting doors 8 months after state funding cuts](https://www.arkansasonline.com/news/2026/jul/11/arkansas-daycare-providers-reducing-services/).” *Arkansas Democrat-Gazette*, July 11, 2026. 
 
-##
+## ---
 
 [View all research and policy work](/publications/) or [download my CV](/files/Denker_CV.pdf).
 
