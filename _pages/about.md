@@ -20,6 +20,10 @@ Before earning my Ph.D. from the University of Colorado Boulder, I was an elemen
 - [Connecting early childhood quality measures to later outcomes](https://oep.uark.edu/how-do-arkansass-early-childhood-quality-measures-connect-to-later-outcomes/), Office for Education Policy
 - [Arkansas Early Childhood Key Program Indicator Baseline Report](https://bpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/1/555/files/2025/09/2025_0916_Arkansas_KPI_BaselineReport.pdf), Office for Education Policy
 
+## Research in the news
+
+- Morano, Miceala. “[Arkansas daycare providers reducing services, shutting doors 8 months after state funding cuts](https://www.arkansasonline.com/news/2026/jul/11/arkansas-daycare-providers-reducing-services/).” *Arkansas Democrat-Gazette*, July 11, 2026. 
+
 [View all research and policy work](/publications/) or [download my CV](/files/Denker_CV.pdf).
 
 I welcome conversations with researchers, agencies, and organizations working on early childhood policy and implementation. You can reach me at [hdenker@uark.edu](mailto:hdenker@uark.edu).
